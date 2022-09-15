@@ -10,7 +10,7 @@
   <a href="https://github.com/febobo/web-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
 </p>
 
-本仓库为语音打卡社群(JS每日一题)维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+本仓库为面试打卡社群(Java每日一题)维护的后端面试题库，包含不限于算法面试题，Java、Redis、Mysql面试题，分布式系统面试题，工程化面试题，大厂面试题，高频面试题
 
 同时我们提供更好阅读体验的在线版本，[点这里](https://vue3js.cn/interview)
 
